@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorShape": ["2233", "200"], "metadataPath": "https://raw.githubusercontent.com/fredrijo/emb-viz/master/data/kongen/emb.metadata.tsv", "tensorPath": "https://raw.githubusercontent.com/fredrijo/emb-viz/master/data/kongen/emb.tensor.tsv", "tensorName": "Kongen"}]}
